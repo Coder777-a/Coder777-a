@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Coder777-A
+- 👋 Hi, My name is Ashwin
 - 👀 I’m interested in ... Data analytics 
 - 🌱 I’m currently learning ... Sql, python, R & tools like Excel,Powerbi.
 - i m armature coder still learning day by day , hence it's totally self
